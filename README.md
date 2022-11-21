@@ -1,1 +1,1 @@
-# Power-BI
+# Laporan Instalasi dan Penggunaan PowerBI
